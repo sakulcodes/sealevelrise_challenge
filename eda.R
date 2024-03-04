@@ -1,5 +1,5 @@
 
-#load required libaries:
+#load required libraries:
 library(ncdf4) ; library(raster) ; library(ggplot2)
 
 #load the dataset: (just a single observation - time stamp 1)
